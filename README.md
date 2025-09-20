@@ -122,6 +122,5 @@ mcp-english-school/
 ├── logging_utils.py     # Colored logging utilities
 ├── .env                 # Environment configuration
 ├── .env.example         # Example environment file
-├── README.md           # This file
-└── requirements.txt    # Python dependencies (if using pip)
+└── README.md            # This file
 ```
